@@ -1,0 +1,14 @@
+title: "Ajit | Software engineer"
+greeting: "Hello world"
+creationYear: 2024
+creator:
+    name: Ajit
+    fullName: Ajit Singh Kamal
+    socials: 
+        linkedIn: "https://www.linkedin.com/in/ajitsinghkamal"
+        github: "https://github.com/ajitsinghkamal"
+        codepen: "https://codepen.io/AjitsinghKamal"
+        stackOverflow: "https://stackoverflow.com/users/6517778/slumbergeist"
+        mail: "ajitsinghkamal@gmail.com"
+
+

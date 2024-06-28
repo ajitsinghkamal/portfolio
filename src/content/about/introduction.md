@@ -1,0 +1,1 @@
+With over 6 years of experience, I thrive at the intersection of UX/UI design, and scalable code architecture. My passion lies in creating seamless user experiences and visually compelling designs that drive engagement. I thrive in collaborative environments, taking on roles from UX research to backend implementation, and always aim to deliver high-impact solutions.
