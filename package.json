@@ -5,11 +5,7 @@
 	"description": "Homepage for Ajit, a software engineer based in Madrid",
 	"version": "2.0.0",
 	"author": "AjitsinghKamal <ajitsinghkamal@gmail.com>",
-	"keywords": [
-		"portfolio",
-		"software-engineer",
-		"frontend"
-	],
+	"keywords": ["portfolio", "software-engineer", "frontend"],
 	"scripts": {
 		"dev": "astro dev",
 		"start": "astro dev",
@@ -18,10 +14,14 @@
 		"astro": "astro"
 	},
 	"dependencies": {
-		"astro": "^4.11.3",
 		"@astrojs/check": "^0.7.0",
+		"astro": "^4.11.3",
 		"typescript": "^5.5.2"
 	},
 	"license": "MIT",
-	"packageManager": "pnpm@9.4.0+sha256.b6fd0bfda555e7e584ad7e56b30c68b01d5a04f9ee93989f4b93ca8473c49c74"
+	"packageManager": "pnpm@9.4.0+sha256.b6fd0bfda555e7e584ad7e56b30c68b01d5a04f9ee93989f4b93ca8473c49c74",
+	"devDependencies": {
+		"@biomejs/biome": "1.8.3",
+		"lefthook": "^1.6.18"
+	}
 }
